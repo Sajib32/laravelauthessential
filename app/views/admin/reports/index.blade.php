@@ -1,0 +1,1 @@
+H:\xampp\htdocs\laravelauthessential\app/views/admin/reports/index.blade.php
